@@ -1,0 +1,14 @@
+.page {
+	max-width: 1200px;
+	padding: 15px;
+}
+
+.page-main a {
+	font-size: 45px;
+	color: #000;
+	text-decoration: none;
+}
+
+.page-main a:hover {
+	text-decoration: underline;
+}
